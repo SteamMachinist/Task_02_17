@@ -11,7 +11,6 @@ public class Line
         this.point2 = point2;
     }
 
-
     Quarter[] inWhichQuartersLineIs()
     {
         Quarter[] lineQuarters = new Quarter[3];

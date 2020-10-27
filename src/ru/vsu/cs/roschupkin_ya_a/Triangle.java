@@ -2,7 +2,6 @@ package ru.vsu.cs.roschupkin_ya_a;
 
 public class Triangle
 {
-
     Line line1;
     Line line2;
     Line line3;
@@ -47,5 +46,4 @@ public class Triangle
         }
         return false;
     }
-
 }
